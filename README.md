@@ -1,3 +1,31 @@
+# 🌧️ Chuva Geométrica - Catch Game
+
+Um jogo de reflexos focado em acessibilidade e jogabilidade fluida. O objetivo é capturar formas geométricas que caem do céu utilizando diferentes métodos de entrada.
+
+## 🚀 Tecnologias
+* **Next.js 14**
+* **Framer Motion** (Para simulação de física e queda)
+* **Lucide React** (Ícones geométricos)
+* **Tailwind CSS**
+
+## 🎮 Acessibilidade & Controles
+* **Desktop**: Suporte total às setas do teclado (Esquerda/Direita).
+* **Mobile/Touch**: Botões de interface otimizados para toque.
+* **Sonoro**: Feedback auditivo ao capturar objetos.
+
+## 🛠️ Como rodar
+1. `npm install`
+2. `npm run dev`
+
+"Projeto 3 concluído! 
+🌧️ O Chuva Geométrica é um exercício de lógica focado em detecção de colisão e acessibilidade multiplataforma. 
+Implementei controles simultâneos para teclado e toque, garantindo que qualquer pessoa possa jogar, independente do dispositivo! 
+🚀 #GameDev #Acessibilidade #NextJS #FramerMotion #WebDesign"
+
+========================================================================================================================================================================
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
